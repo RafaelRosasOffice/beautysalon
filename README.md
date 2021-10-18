@@ -4,10 +4,10 @@
 
 ![Rafael Rosas](https://github.com/RafaelRosasOffice/MyHouse/raw/main/img/linguage_new.jpg)
 
-<p align="center" ><img src="https://img.shields.io/github/issues/RafaelRosasOffice/MyHouse">
-<img src="https://img.shields.io/github/forks/RafaelRosasOffice/MyHouse">
-<img src="https://img.shields.io/github/stars/RafaelRosasOffice/MyHouse">
-<img src="https://img.shields.io/github/license/RafaelRosasOffice/MyHouse">
+<p align="center" ><img src="https://img.shields.io/github/issues/RafaelRosasOffice/beautysalon">
+<img src="https://img.shields.io/github/forks/RafaelRosasOffice/beautysalon">
+<img src="https://img.shields.io/github/stars/RafaelRosasOffice/beautysalon">
+<img src="https://img.shields.io/github/license/RafaelRosasOffice/beautysalon">
 
 <h1 align="center" style="font-size:40px">
     <a href="https://rafaelrosasoffice.github.io/beautysalon/" target="_blank">BeautySalon</a>
