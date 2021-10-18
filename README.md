@@ -1,7 +1,3 @@
-
-
-
-
 ![Rafael Rosas](https://github.com/RafaelRosasOffice/MyHouse/raw/main/img/linguage_new.jpg)
 
 <p align="center" ><img src="https://img.shields.io/github/issues/RafaelRosasOffice/beautysalon">
@@ -43,9 +39,9 @@ By Rafael Rosas 👋🏽 Entre em contato!
 
 ---
 
-|             Home             |           Button            |            Renatls            |          Process one          |
-| :--------------------------: | :-------------------------: | :---------------------------: | :---------------------------: |
-| ![Editing Web](img/one.jpg)  | ![Editing Web](img/two.jpg) | ![Editing Web](img/three.jpg) | ![Editing Web](img/four.jpg)  |
-|         Process two          |        Process three        |          Because we           |             Menu              |
-| :-------------------------:  | :-------------------------: |  :-------------------------:  |  :-------------------------:  |
-| ![Editing Web](img/five.jpg) | ![Editing Web](img/six.jpg) | ![Editing Web](img/seven.jpg) | ![Editing Web](img/eight.jpg) |
+|                  Home                  |                 About                 |              Services one               |              Services two               |
+| :------------------------------------: | :-----------------------------------: | :-------------------------------------: | :-------------------------------------: |
+| ![Editing Web](assets/photos/one.jpg)  | ![Editing Web](assets/photos/two.jpg) | ![Editing Web](assets/photos/three.jpg) | ![Editing Web](assets/photos/four.jpg)  |
+|              Testimonials              |                Contact                |                 Footer                  |                  Menu                   |
+|      :-------------------------:       |      :-------------------------:      |       :-------------------------:       |       :-------------------------:       |
+| ![Editing Web](assets/photos/five.jpg) | ![Editing Web](assets/photos/six.jpg) | ![Editing Web](assets/photos/seven.jpg) | ![Editing Web](assets/photos/eight.jpg) |
