@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&style=plastic&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=&message=CSS&color=007FFF&style=plastic&logo=CSS3&logoColor=007FFF&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=FFFF00&style=plastic&logo=JavaScript&logoColor=white"/><br>
+<img src="https://img.shields.io/static/v1?label=&message=Javascript&color=FFFF00&style=plastic&logo=JavaScript&logoColor=black"/><br>
 
 - Site responsivo para celular, tablet e desktop.<br>(Responsive website for mobile, tablet and desktop.)
 
